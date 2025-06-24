@@ -1,7 +1,7 @@
 <h1> Hello👋, I'm  Arad kuhzad</h1>
 
 
-  [**![me-gmail](https://github.com/ghasemizade/Ghasemizade/assets/92257857/a4a6ff93-780e-47f3-b840-2ef3af18430d)**][email]
+  [**![me-gmail]( aradkuhzad86@gmail.com )**][email]
 
   <br>
   <a href="#">
