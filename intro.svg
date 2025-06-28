@@ -5,7 +5,7 @@
                             <!-- Single line -->
                                 <animate id="d0" attributeName="d" begin="0s;d2.end" dur="5000ms" fill="remove" values="m0,25 h0 ; m0,25 h450 ; m0,25 h450 ; m0,25 h0" keyTimes="0;0.8;0.8;1"/>
                     </path>
-    <text font-family="&quot;monospace&quot;, monospace" fill="#C4045D" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
+    <text font-family="&quot;monospace&quot;, monospace" fill="#1243d4" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
         <textPath xlink:href="#path0">
             Hello 👋
         </textPath>
@@ -14,7 +14,7 @@
                             <!-- Single line -->
                                 <animate id="d1" attributeName="d" begin="d0.end" dur="5000ms" fill="remove" values="m0,25 h0 ; m0,25 h450 ; m0,25 h450 ; m0,25 h0" keyTimes="0;0.8;0.8;1"/>
                     </path>
-    <text font-family="&quot;monospace&quot;, monospace" fill="#C4045D" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
+    <text font-family="&quot;monospace&quot;, monospace" fill="#0fa29d" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
         <textPath xlink:href="#path1">
             I'm @aradkuhzad...
         </textPath>
