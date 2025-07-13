@@ -5,8 +5,7 @@
 
 <div align="center">
   
-<a href="anuraghazra/github-readme-stats
-DenverCoder1/github-readme-streak-stats">
+<a href="anuraghazra/github-readme-stats DenverCoder1/github-readme-streak-stats">
 
 </div>
 
